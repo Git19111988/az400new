@@ -14,7 +14,7 @@ steps:
   displayName: 'Peoduction '
 
 - script: |
-    echo Welcome to TechPleddge Microsoft AZ400 Training.
+    echo Welcome to TechPleddge Microsoft AZ400 Training for AT&T
     @echo off
     echo Hello my name is BDS
     echo My ID is %AGENT_ID%.
